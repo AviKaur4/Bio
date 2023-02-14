@@ -1,0 +1,8 @@
+Unfamiliar Words + Definitions
+Prototyping - A sample or model that can be utilized to test a concept or process.
+Widgets - A component of a graphical user interface that depicts info about about an application or operating system. 
+Idiosyncratic - Unusual feature of an individual. 
+Summary of Best Practices
+- I have started to commit the changes I make onto an R text file/script. 
+- I have started adding section headings on my code to make it more organized.
+- Also I am organizing all of my files into different folders to make it easier to locate all the files when needed.
